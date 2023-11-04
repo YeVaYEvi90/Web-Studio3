@@ -1,0 +1,33 @@
+.logo{
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #2196F3;
+}
+.heder-logo{
+color: #000000;
+}
+.nav-list-link{
+font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color:#212121;
+}
+.contacts-list-link{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #757575;
+}
+.nav-list-link:hover,.contacts-list-link:hover{
+    color: #2196F3;
+}
